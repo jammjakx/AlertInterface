@@ -2,6 +2,7 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
-    <h3>Your application description page.</h3>
-    <p>Use this area to provide additional information.</p>
+    <p>De Alert Tool is een web applicatie die gebruikt kan worden om meldingen te bekijken, te wijzigen of te sluiten.
+        Daarnaast kun je hier de binnenkomende meldingen filteren.
+    </p>
 </asp:Content>

@@ -50,11 +50,14 @@
                     <a class="navbar-brand" runat="server" href="~/">Alert Tool
                     </a>
                 </div>
+                <%--Menu Balk--%>
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
                         <li><a runat="server" href="~/">Home</a></li>
                         <li><a runat="server" href="~/About">About</a></li>
                         <li><a runat="server" href="~/Contact">Contact</a></li>
+                        <li><a runat="server" href="~/Instellingen">Instellingen</a></li>
+                        <li><a runat="server" href="~/Login">Login</a></li>
                     </ul>
                 </div>
             </div>
@@ -63,8 +66,10 @@
             <asp:ContentPlaceHolder ID="MainContent" runat="server">
             </asp:ContentPlaceHolder>
             <hr />
+
+             <%--Footer--%>
             <footer>
-                <p>&copy; <%: DateTime.Now.Year %> - My ASP.NET Application</p>
+                <p>&copy; <%: DateTime.Now.Year %> - UC Systems Alert Tool</p>
             </footer>
         </div>
 
