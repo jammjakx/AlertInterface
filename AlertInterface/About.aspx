@@ -2,7 +2,6 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
-    <p>De Alert Tool is een web applicatie die gebruikt kan worden om meldingen te bekijken, te wijzigen of te sluiten.
-        Daarnaast kun je hier de binnenkomende meldingen filteren.
+    <p>De UC Systems Alert Tool kan gebruikt worden om meldingen te openen, bewerken, sluiten en te filteren.
     </p>
 </asp:Content>

@@ -10,6 +10,6 @@
 namespace AlertInterface {
     
     
-    public partial class About {
+    public partial class Instellingen {
     }
 }
