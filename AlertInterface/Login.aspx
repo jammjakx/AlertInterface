@@ -9,5 +9,8 @@
     Wachtwoord&nbsp;&nbsp;&nbsp;&nbsp; :
     <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
     <br />
+    <br />
+    <asp:Button ID="Button1" runat="server" Height="28px" Text="Button" Width="142px" />
+    <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 </asp:Content>
