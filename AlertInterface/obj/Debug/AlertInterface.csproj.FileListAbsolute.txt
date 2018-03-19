@@ -47,3 +47,4 @@ D:\Stage\Project\AlertInterface\AlertInterface\obj\Debug\AlertInterface.csprojRe
 D:\Stage\Project\AlertInterface\AlertInterface\obj\Debug\AlertInterface.csproj.CoreCompileInputs.cache
 D:\Stage\Project\AlertInterface\AlertInterface\obj\Debug\AlertInterface.dll
 D:\Stage\Project\AlertInterface\AlertInterface\obj\Debug\AlertInterface.pdb
+C:\Users\Slopsie\Documents\GitHub\AlertInterface\AlertInterface\obj\Debug\AlertInterface.csproj.CoreCompileInputs.cache
