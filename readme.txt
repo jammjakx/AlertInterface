@@ -7,3 +7,6 @@ https://docs.microsoft.com/en-us/aspnet/web-api/overview/older-versions/build-re
 27/03
 made a build to get different http requests using this: 
 https://docs.microsoft.com/en-us/aspnet/web-api/overview/advanced/calling-a-web-api-from-a-net-client
+
+28/03
+spent the day preparing for exams tomorrow.
